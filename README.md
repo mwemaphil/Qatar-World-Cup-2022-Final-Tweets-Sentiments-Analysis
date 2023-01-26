@@ -1,7 +1,7 @@
 # Qatar World Cup 2022 Final Tweets-Sentiments Analysis
 ## Analysis done by Philip Mwema
 
-![WorldCup2022_white](https://user-images.githubusercontent.com/45120853/214844469-34d143aa-5ec0-4c1e-91de-6a8eecfa5aa7.png)
+![WorldCup2022_white](https://user-images.githubusercontent.com/45120853/214845196-942f2c4e-4798-46c2-909b-5168a13b4e03.png)
 
 Qatar 2022 Final Tweets Sentiments Analysis using Python, Pandas, Numpy, Power Bi.
 
