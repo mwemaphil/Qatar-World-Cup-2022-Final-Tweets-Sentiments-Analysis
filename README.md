@@ -1,8 +1,6 @@
 # Qatar World Cup 2022 Final Tweets-Sentiments Analysis
 ## Analysis done by Philip Mwema
-
 ![WorldCup2022_white](https://user-images.githubusercontent.com/45120853/214845196-942f2c4e-4798-46c2-909b-5168a13b4e03.png)
-
 Qatar 2022 Final Tweets Sentiments Analysis using Python, Pandas, Numpy, Power Bi.
 
 With the World Cup being the most famous and infamous sports tournament in the world, the 22nd edition was to be hosted by Qatar, a small Middle Eastern country with a mighty economy where petroleum and natural gas are it's cornerstone.
